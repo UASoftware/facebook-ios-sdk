@@ -310,8 +310,8 @@
 				INFOPLIST_FILE = "ProfilePictureSample/ProfilePictureSample-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				OTHER_LDFLAGS = (
-				    "-lsqlite3.0",
-				    "-ObjC",
+					"-lsqlite3.0",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -330,8 +330,8 @@
 				INFOPLIST_FILE = "ProfilePictureSample/ProfilePictureSample-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				OTHER_LDFLAGS = (
-				    "-lsqlite3.0",
-				    "-ObjC",
+					"-lsqlite3.0",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;

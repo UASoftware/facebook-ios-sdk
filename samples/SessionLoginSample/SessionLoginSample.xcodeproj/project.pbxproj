@@ -306,8 +306,8 @@
 				INFOPLIST_FILE = "SessionLoginSample/SessionLoginSample-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				OTHER_LDFLAGS = (
-				    "-lsqlite3.0",
-				    "-ObjC",
+					"-lsqlite3.0",
+					"-ObjC",
 				);
 				PRODUCT_NAME = SessionLoginSample;
 				WRAPPER_EXTENSION = app;
@@ -326,8 +326,8 @@
 				INFOPLIST_FILE = "SessionLoginSample/SessionLoginSample-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				OTHER_LDFLAGS = (
-				    "-lsqlite3.0",
-				    "-ObjC",
+					"-lsqlite3.0",
+					"-ObjC",
 				);
 				PRODUCT_NAME = SessionLoginSample;
 				WRAPPER_EXTENSION = app;
